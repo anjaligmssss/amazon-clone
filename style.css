@@ -22,7 +22,7 @@
 
 .logo{
 
-    background-image: url("/logoofpro.png");
+    background-image: url("pictures/logoofpro.png");
     background-size: cover;
     height: 50px;
     width:100%;
@@ -131,7 +131,7 @@ span{
 
  /* hero section */
  .hero-sec{
-    background-image: url("/HERO_SECTION.jpg");
+    background-image: url("pictures/HERO_SECTION.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
@@ -238,7 +238,7 @@ span{
  }
 
  .logofoot{
-    background-image: url("/logoofpro.png");
+    background-image: url("pictures/logoofpro.png");
     background-size: cover;
     height: 50px;
     width:80px;
